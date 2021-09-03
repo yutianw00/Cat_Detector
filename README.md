@@ -1,8 +1,8 @@
-# Python Deep Learning Project: Cat Recognition with CNN and ResNet
+# Python Deep Learning Project: Cat Detection with CNN and ResNet
 
 ## 0. Basic Information
 
-**Project name:** Cat Recognition with CNN and ResNet
+**Project name:** Cat Detection with CNN and ResNet
 
 **Version:** v1.0
 
